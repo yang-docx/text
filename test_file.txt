@@ -1,4 +1,6 @@
 hello
 master
 feature1
-laotie111
+laotie222
+
+>>>>>>> feature2
